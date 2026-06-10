@@ -1,0 +1,14 @@
+COMO PUBLICAR
+
+1. Entre em github.com e faça login.
+2. Clique em “New repository”.
+3. Nome sugerido: tcc-ia-estresse-vader
+4. Escolha “Public” ou “Private”, conforme a orientação da professora.
+5. Clique em “Create repository”.
+6. Clique em “uploading an existing file” ou “Add file > Upload files”.
+7. Envie todos os arquivos e pastas deste pacote.
+8. Clique em “Commit changes”.
+9. Copie o endereço do repositório.
+
+Não envie o Word revisado anteriormente. O trabalho original permanece
+inalterado. Este pacote contém apenas o código correspondente à metodologia.

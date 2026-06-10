@@ -1,0 +1,10 @@
+Coloque nesta pasta os arquivos de comentários do Pushshift em formato
+JSONL, JSONL.ZST ou .ZST. O código espera, no mínimo, os campos:
+
+- id
+- subreddit
+- created_utc
+- body
+
+Os arquivos podem conter outros subreddits e outros períodos; o script fará
+a filtragem para 2021-2024 e para as comunidades do trabalho.
