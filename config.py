@@ -1,14 +1,10 @@
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
-DADOS_BRUTOS = BASE_DIR / "dados_brutos"
-DADOS = BASE_DIR / "dados"
-RESULTADOS = BASE_DIR / "resultados"
-RECURSOS = BASE_DIR / "recursos"
 
 SUBREDDITS = {"programming", "cscareerquestions", "devops"}
 DATA_INICIAL = "2021-01-01"
-DATA_FINAL = "2025-01-01"  # exclusivo
+DATA_FINAL = "2025-01-01"
 META_POR_SUBREDDIT = 2000
 SEMENTE = 2026
 MIN_CARACTERES = 40

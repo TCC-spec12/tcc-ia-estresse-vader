@@ -1,7 +1,5 @@
-﻿comment_id_hash,subreddit,created_utc,body_original,texto_normalizado,neg,neu,pos,compound,classe_sentimento,termos_estresse
-f146e9fb3fb54cff,programming,2021-01-01T00:00:00+00:00,I've been working 12+ hours every day this week. I can't keep up with everything.,i've been working 12+ hours every day this week. i can't keep up with everything.,0.0,1.0,0.0,0.0,neutro,can't keep up
-ea09bc75f9fe1c01,cscareerquestions,2021-01-02T00:00:00+00:00,Another impossible deadline. We just push code and pray nothing breaks.,another impossible deadline. we just push code and pray nothing breaks.,0.0,0.813,0.187,0.3182,positivo,deadline
-3869fa7f8bd8d310,programming,2021-01-03T00:00:00+00:00,I feel completely drained. I don't even have energy to think anymore.,i feel completely drained. i don't even have energy to think anymore.,0.365,0.635,0.0,-0.5584,negativo,drained
-8979ad4a0896cd13,programming,2021-01-04T00:00:00+00:00,Spent the whole night fixing a bug and it broke again. This is exhausting.,spent the whole night fixing a bug and it broke again. this is exhausting.,0.325,0.675,0.0,-0.6486,negativo,exhausting; bug
-9013657d1d551637,devops,2021-01-05T00:00:00+00:00,I'm constantly anxious about production issues. One mistake and everything goes down.,i'm constantly anxious about production issues. one mistake and everything goes down.,0.306,0.694,0.0,-0.5267,negativo,anxious; production issues
-c88efdd3ca3b68d9,cscareerquestions,2021-01-06T00:00:00+00:00,I think I'm burning out. I don't enjoy coding anymore and every task feels like a burden.,i think i'm burning out. i don't enjoy coding anymore and every task feels like a burden.,0.291,0.578,0.131,-0.4639,negativo,burning out
+FORMATO PLANO PARA O GITHUB
+
+Todos os arquivos deste pacote ficam na pasta principal do repositório.
+Esta versão foi preparada para corrigir o envio em que as pastas foram
+automaticamente achatadas pelo navegador.
