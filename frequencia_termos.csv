@@ -1,9 +1,30 @@
 ﻿termo,quantidade_de_comentarios,percentual_da_amostra
-can't keep up,1,16.67
-deadline,1,16.67
-drained,1,16.67
-exhausting,1,16.67
-bug,1,16.67
-anxious,1,16.67
-production issues,1,16.67
-burning out,1,16.67
+bug,758,33.03
+stress,292,12.72
+workload,186,8.1
+pressure,146,6.36
+on call,140,6.1
+incident,137,5.97
+crash,120,5.23
+tired,116,5.05
+deadline,112,4.88
+outage,97,4.23
+on-call,90,3.92
+burnout,86,3.75
+anxiety,70,3.05
+stressful,66,2.88
+deadlines,64,2.79
+overtime,62,2.7
+stressed,46,2.0
+overload,35,1.53
+exhausting,21,0.92
+anxious,16,0.7
+exhausted,15,0.65
+overworked,14,0.61
+burning out,11,0.48
+drained,4,0.17
+production issue,4,0.17
+production issues,3,0.13
+can't keep up,3,0.13
+exhaustion,2,0.09
+cannot keep up,1,0.04
